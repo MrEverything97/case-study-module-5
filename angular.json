@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "case-study-module5"
+    }
+  },
+  "defaultProject": "case-study-module5",
+  "cli": {
+    "analytics": false
+  }
 }
